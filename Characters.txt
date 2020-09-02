@@ -1,1 +1,1 @@
-character:goat1,goat2
+character:goat1,goat2,bridge,river
